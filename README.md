@@ -1,17 +1,31 @@
-# Hi, I'm Abdellah Offan 👋
+<div align="center">
 
-I'm a Python learner and aspiring developer. I enjoy breaking down logic into simple, working code. Currently, I'm focused on building small projects to sharpen my problem-solving skills and understand how things work under the hood.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-### 🛠 Tech Stack
-* **Language:** Python
-* **Tools:** VS Code, Git, Basic Linux
+[![Instagram badge](https://img.shields.io/badge/Instagram-grey?style=flat&logo=instagram)](https://instagram.com/abdellahoffan)
+[![Email badge](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:bllhfan@gmail.com)
+<br>
+</div>
 
-### 🌱 Currently working on
-* Improving my Python logic through daily practice.
-* Building console-based applications to solve math and physics problems.
+<hr></hr>
 
-### 📬 Contact Me
-* **Email:** bllhfan@gmail.com
-* **Instagram:** [abdellahoffan](https://instagram.com/abdellahoffan)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-> "Every expert was once a beginner."
+```python
+# tools_I_use organized
+
+class AboutMe:
+    def __init__(self):
+        self.name = "Abdellah Offan"
+        self.current_focus = ["Python", "Problem Solving", "Logic Building"]
+        self.tools = ["VS Code", "Git", "GitHub", "Linux"]
+        self.projects = ["Physics Laws Simulator"]
+        self.goal = "Become a strong Software Developer"
